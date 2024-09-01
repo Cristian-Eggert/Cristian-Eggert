@@ -1,6 +1,6 @@
 ![Fundo Azul](https://github.com/user-attachments/assets/2b1a2f27-eb16-4311-93ae-0d739a81ded7)
 
-**👋 Olá, tudo bem? Cristian Eggert aqui!**
+**👋 Olá, tudo bem? Cristian Eggert aqui!**  
 Seja muito bem-vindo (a) ao meu perfil.
 
 IT Support Analyst (Field Klabin SA) 👨‍💻 | Entusiasta de IA 🤖 | Engenharia de Prompts 💡 | Futuro Gestor de TI 💼🚀 | Embaixador DIO Campus Expert 🎓 | Liderança 🎯 | ITIL 4 ⏳ | Office365 ☁️ | Artigos Tech 📝
@@ -43,4 +43,4 @@ Tenho como principal objetivo de carreira, assumir cargos de gestão, liderando 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="tenor-gif-embed" data-postid="27188768" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/spongebob-work-computer-gif-27188768">Spongebob Work GIF</a>from <a href="https://tenor.com/search/spongebob-gifs">Spongebob GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/pt-BR/view/spongebob-work-computer-gif-27188768
