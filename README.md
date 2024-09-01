@@ -37,7 +37,6 @@ Tenho como principal objetivo de carreira, assumir cargos de gestão, liderando 
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
-![Distintivo DIO](https://camo.githubusercontent.com/cb0d2a07477f110d46f2d895df06c48288b44b802062e5e5517e5057dc73f423/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d44494f2d2532333731353963313f7374796c653d666f722d7468652d6261646765266c6f676f3d646174613a696d6167652f706e673b6261736536342c2535424241534536345f535452494e47253544266c6f676f436f6c6f723d7768697465)](https://www.dio.me/users/cristian_rodrigo2644)
 
 ![tenor](https://github.com/user-attachments/assets/5f215cfb-ec8e-4cd1-91f3-ffe99c11c642)
 
