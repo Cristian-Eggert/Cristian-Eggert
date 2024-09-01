@@ -37,6 +37,7 @@ Tenho como principal objetivo de carreira, assumir cargos de gestão, liderando 
 <a href="https://www.linkedin.com/in/cristian-eggert" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
+[DIO](https://www.dio.me/users/cristian_rodrigo2644)
 
 ![tenor](https://github.com/user-attachments/assets/5f215cfb-ec8e-4cd1-91f3-ffe99c11c642)
 
